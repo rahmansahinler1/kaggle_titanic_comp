@@ -2,11 +2,12 @@
 
 The Kaggle Titanic competition is a machine learning challenge where participants aim to predict the survival or death of passengers on the Titanic based on provided data. Participants typically use techniques like data preprocessing, feature engineering, and various predictive models to achieve the best accuracy. It serves as a popular competition for data science and machine learning.
 
-# Generated AI models
+# Generated Models
 
 - Logistic Regression
 - Decision Tree
 - Random Forest
+- XGBoost
 
 # Result
 
